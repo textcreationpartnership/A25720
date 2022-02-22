@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Appendix to the proposal for raising the price of tin containing reasons for raising the price, quality, and quantity of tin in the counties of Cornwall and Devon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25720</idno>
+            <idno type="STC">Wing A3575</idno>
+            <idno type="STC">ESTC R27194</idno>
+            <idno type="EEBO-CITATION">09692105</idno>
+            <idno type="OCLC">ocm 09692105</idno>
+            <idno type="VID">44010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Appendix to the proposal for raising the price of tin containing reasons for raising the price, quality, and quantity of tin in the counties of Cornwall and Devon.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tin industry --  England.</term>
+               <term>Tin --  Prices --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appendix">
+            <pb facs="tcp:44010:1"/>
+            <pb facs="tcp:44010:1" rendition="simple:additions"/>
+            <head>AN APPENDIX TO THE PROPOSAL For Raiſing the Price of Tin: CONTAINING Reaſons for Raiſing the Price, Quality and Quantity, of Tin; in the Counties of <hi>Cornwall,</hi> and <hi>Devon.</hi>
+            </head>
+            <p n="1">1. BECAUSE the Publick Uſe of Silver-Plate is ſo much abated in the Nation.</p>
+            <p n="2">2. BECAUSE Tin, improv'd by Art, is next, in Na<g ref="char:EOLhyphen"/>ture, to pure Gold, and Silver. And it is the Intereſt, and Honour of the Nation to Refine Tin, it being our own
+<pb n="2" facs="tcp:44010:2" rendition="simple:additions"/>Commodity, rather than to uſe Allay'd and Courſe Silver, for Common Plate.</p>
+            <p n="3">3. THE higher the Price and Quality of Tin ſhall be, the more it will be in Faſhion: The more it is in Faſhion; the more it will be Refin'd: The more it is Refin'd, the more fitter it will be for Plate: The more Tin there is in Plate, the more Silver we ſall have in Mony: The more Silver there is in Mony, the more Mony we ſhall have to lay out on the moſt Refin'd and Faſhionable Pewter: The finer the Pewter is in Quality and Faſhion, the higher will be the Price of Tin: The higher the Price and Quality of Tin ſhall be, the greater quantity will be Conſum'd: The greater the Conſumption is, the better it will be, both for the Rich and Poor: The Poor will get more Wages, and the Rich more Wealth; For <hi>All Markets are govern'd by the firſt Market-Price.</hi> And as the Quantity, Quality and Price of Tin ſhall riſe, the more it will be for the Honour and Intereſt of the Na<g ref="char:EOLhyphen"/>tion in general; And the Counties of <hi>Cornwall</hi> and <hi>Devon</hi> in particular, will be the better enabled thereby to ſerve their King and Country, in Mind, Body and Eſtate.</p>
+            <p>NOW, The better to prevent the <hi>Corniſh</hi> Factors under<g ref="char:EOLhyphen"/>buying one another, and bringing down the Price of Tin, to the Prejudice of the Publick; as our Merchants do often Limit their Factors, to prevent the riſing Prizes of Foreign Commodities; ſo a Law may be made here, That no one ſhall buy, or ſell Tin, under 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> or 4 <hi>
+                  <abbr>l.</abbr> per</hi> Hun<g ref="char:EOLhyphen"/>dred. I have already ſhewn, in the firſt Propoſal, that the Price of Tin abroad, will bear that Price at home. And it is as much Policy to keep the Price of Tin from falling, as it would have been to have kept the Price of Silver from riſing, and its Quality from being debas'd.</p>
+            <p>There was more Work done for the <hi>Roman</hi> Penny, (which was pure Silver) than can be done now for an
+<pb n="3" facs="tcp:44010:2"/>
+               <hi>Engliſh</hi> Pound; For, as we have Allay'd and Corrupted our Coin, we have loſt much of our Conſtitution with the ancient Standard; And as our <hi>Engliſh</hi> Conſtitution hath been corrupted with our Coin, ſo the Strength and Courage of the <hi>Corniſh</hi> Men, hath much declin'd with the Prince of their Tin.</p>
+            <p>
+               <hi>I will take away all their Tin,</hi>
+               <note place="margin">Iſa. 1.25.</note> was once ſaid to a degene<g ref="char:EOLhyphen"/>rating and, then, unthinking People, becauſe they did not Improve the Talent: But it is better that God ſhould take the Tin from us, than that we ſhould be ruin'd by ſo Rich a Commodity as Tin may be made.</p>
+            <p>I have ſee at <hi>Venice</hi> and elſewhere, Plate made of Re<g ref="char:EOLhyphen"/>fin'd Tin, which have exceeded ſome made of Allay'd Silver.</p>
+            <p>And Mr. <hi>Joſeph Benmer</hi> of <hi>Panzance</hi> in <hi>Cornwall,</hi> having been a Scholar and a great Traveller, and an honeſt and ingenious Pewterer, and having ou done all others of his Profeſſion here, in making Tin-Plate for ſuch as eſteem'd it, and paid him a Price according to the Excellency of the refined Metal, and Curioſity of the Workmanſhip; There was a great Wager laid, That one of the Pewterers of <hi>London</hi> ſhould exceed him in the Art of Refineing Tin, and making a Plate thereof: But Mr. <hi>Benmar</hi>'s Plate ex<g ref="char:EOLhyphen"/>ceeded the others, both in Lightneſs and Fineneſs; and the Wager being won, Mr. <hi>Benmer</hi> (to ſhew a farther ex<g ref="char:EOLhyphen"/>cellency in the Improvement of Nature by his Art) made a fierce Fire; And putting his Plate thereon, and the other Pewterers Plate into his, his melted down the other Plate, and remain'd in its former Excellency and Perfection.</p>
+            <p>And certainly, if our Tin had not an exceeding Quality in Nature, to imploy the Arts of ingenious and induſtrious Men, ſo many Nations of the World (and even thoſe that have Tin in it) would not have taken ſo much from our Merchants Agents abroad, at 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> and 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> Sterling a Hundred; nor could our Merchants at home (as hereto<g ref="char:EOLhyphen"/>fore they did) give the Tinners above 6 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Hundred
+<pb n="4" facs="tcp:44010:3"/>firſt Price for it. And the higher the Price hath been, the better the Commodity hath gone off.</p>
+            <p>AND farther, to ſhew the Nature of our Tin, I ſhall inform my Reader, (and I could give many ſuch In<g ref="char:EOLhyphen"/>ſtances) That about 20 Years ago, ſome engineers, or ra<g ref="char:EOLhyphen"/>ther Men of Cunning Art, came down into <hi>Cornwall:</hi> And often Viſiting the blowing, or melting Houſes, of the Tin, and as often making the Blowers Drink; Whilſt the Blow<g ref="char:EOLhyphen"/>ers were buſy Drinking, thoſe cunning Men were as buſy dipping their Rods in the Flote, or Mould, where the Tin was melting hot; And by that means, uſing both ends of their Rods,<note place="margin">Con<g ref="char:EOLhyphen"/>ſidering our Proportion, of Gold and Silver, from the <hi>Indies;</hi> If no ſmall quan<g ref="char:EOLhyphen"/>tity of both had not been Extracted from the Me<g ref="char:EOLhyphen"/>tals of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> we could never have endured the late over<g ref="char:EOLhyphen"/>ballance of Trade, nor have ſo long carried on ſuch a War.</note> they extracted a great deal of Gold and Silver. And, if they had not been miſtruſted, and forced to fly the Country, uon the diſcover'd want of that Vertue, which, by that means, was gone out of the Tin, they would have gotten many Thouſand Pounds, in a little time, and ſpoil'd all the Tin which they ſhould ſo touch.</p>
+            <p>The Pewterers, and Merchants, upon the Diſcovery, com<g ref="char:EOLhyphen"/>plaining to the Tinners; the Tinners brought their Action againſt the Blowers: And (after a <hi>Stannery</hi> Law-ſuit as long as from hence to the Lands-End) they had more Satisfaction, then (I think) ſhould have been given them.</p>
+            <p>And, ſome time ſince, one of thoſe cunning Men confeſſed the Matter of Fact to me, and ſome others, and how they were forced to fly the Country for Committing it.</p>
+            <p>NOW the Nature of Tin, in its refined Purity, being ſo nearly related to Gold and Silver, We ſhould uſe all poſſible Art and Policy, to refine and eſteem its Quality, and thereby alſo to raiſe the Price thereof.</p>
+            <p>AND, if We do ſo, now in the time of the Tinners ne<g ref="char:EOLhyphen"/>ceſſity, it cannot but increaſe the Tin-Trade; and be an Act of Charity and Juſtice, very acceptable and well-plea<g ref="char:EOLhyphen"/>ſing, both to God and the Nation.</p>
+            <pb n="5" facs="tcp:44010:3"/>
+            <p>Becauſe the Improvement of this Rich Talent will much Increaſe our Coin, which is ſo much wanting to carry on a Vigorous War againſt our greateſt Adverſary.</p>
+            <p>AND as all Kingdoms and Common-wealths, have Riſen by Trade and Juſtice, ſo we may now begin to Aggrandize this Great Land and Nation, by one of the Ca<g ref="char:EOLhyphen"/>pital Commodities thereof.</p>
+            <p>Vaſt Quantities whereof may be riſen and conſumed, by Refining and Eſteeming the Quality, and by Raiſing and Advancing the Price, to the greater Intereſt and Ho<g ref="char:EOLhyphen"/>nour both of the King and Country.</p>
+            <p>And when the Great Wiſdom and Policy of the King and Parliament, ſhall think fit to Sit upon ſo Great and Ad<g ref="char:EOLhyphen"/>vantagious a Work, even an Engliſh Kitching hung (as it were) with Refined Pewter-Plate, will be one of the Fineſt and Nobleſt Sights in the World.</p>
+            <p>AND, as we Underſtand the good Nature of this No<g ref="char:EOLhyphen"/>ble and Generous Nation, and have regard to the Inte<g ref="char:EOLhyphen"/>reſt of the Poor, and the Publick, We may find out Means enough to overcome our greateſt Adverſaries withal; And to make KING <hi>WILLIAM</hi> a Greater Friend than Queen <hi>Elizabeth</hi> was to the World, when She was ſo near (in Strength, but not in Time) to that Univerſal Empire, which the King of <hi>Spain</hi> then aimed at, and the French King hath ſince ſet up for.</p>
+            <p>AND Whereas <hi>Britain</hi> had its Name from the Tin, which was firſt found in the County of <hi>Cornwall,</hi> We can<g ref="char:EOLhyphen"/>not begin to regulate Trade, and to raiſe the Nation bet<g ref="char:EOLhyphen"/>ter, than by trying all Experiments upon that uſeful Com<g ref="char:EOLhyphen"/>modity.</p>
+            <p>And therefore, I ſhould here ſhew ſome other Means to redreſs the Tinners Greviances: But this being not the
+<pb n="6" facs="tcp:44010:4"/>proper Time for that purpoſe, (but the moſt proper Time to keep the Price of Tin from falling, at leaſt under 3 <hi>
+                  <abbr>l.</abbr> per</hi> Hundred;) I ſhall draw theſe Reaſons to a Concluſion, with the two following Letters, the one from a <hi>Corniſh</hi> Gentle<g ref="char:EOLhyphen"/>man, and the other from a Gentleman of <hi>Devon.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Cornwall,</hi> 
+                        <date>Feb. <hi>18. 1696.</hi>
+                        </date>
+                     </dateline>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Receiv'd your Propoſal for Raiſing the Price of Tin, to<g ref="char:EOLhyphen"/>gether with a Manuſcript containing ſome other Means to redreſs the Tinners Greviances; all which indeed, and ſeve<g ref="char:EOLhyphen"/>ral Things more, ſeen abſolutely neceſſary to be done, for the good of the King and his poor Subjects (the labouring Tin<g ref="char:EOLhyphen"/>ners eſpecially) in the County of <hi>Cornwall.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Devon,</hi> 
+                        <date>Feb. <hi>22. 1696.</hi>
+                        </date>
+                     </dateline>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WE have gotten our Petition Signed by the Tinners. We could have a great many Names more to it, but the Time being ſhort, we made all the haſte we could poſſibly, for we are doubtful the Parliament may break up before the Thing may be effected. We have ſhewn, and read your Book of Pro<g ref="char:EOLhyphen"/>poſals to many Gentlemen, and to a great many Tinners; and all that read it, or heard it, do ſay, That it is the trueſt and reaſonableſt Thing (to be granted) that ever was. It will do good to many, and hurt to none.</p>
+               </body>
+            </floatingText>
+            <p>BY which it doth appear, That the Tinners (who know what they have had, and believe what the may have again for their Tin) are very deſirous to have a Law, this Seſſion of Parliament, according to the Propoſal, and the Prayer of
+<pb n="7" facs="tcp:44010:4"/>their Petition, That no one ſhall buy or ſell Tin under 3 or 3 <hi>
+                  <abbr>l.</abbr> per</hi> Hundred. As to the great Wiſdom of the King and Parliament ſhall ſeem moſt meet.</p>
+            <p>AND as the Price of Tin riſeth by degrees, the Tin<g ref="char:EOLhyphen"/>ners will riſe in Reputation and Eſtate; And what ſhall be done for them by the Kings Moſt Excellent Majeſty, and the High Court of Parliament, will put may others upon promoting thoſe Trades, which <hi>England,</hi> now, above all other Nations, is capable of Improving.</p>
+            <p>AND as we weather this Point of War, and come to wage Trade with the World (as in point of Wiſdom and true Policy we ſhould do) we may turn the Wheel of our Fortune.</p>
+            <p>AND, as God and Nature hath done more for this Nation, than for any other; ſo, by Trade and Juſtice, and a neceſſity of ſome Regulations, we may raiſe <hi>Great Britain</hi> to that degree of Riches, Honour and Excellency, for which God, Nature, and the Preſent Neceſſity, ſeem to have deſigned it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTCRIPT.</head>
+            <p>THE Propoſal of the Pewterers, would now do conſiderable Good to the King, the Country, and Themſelves.</p>
+            <p>And tho' it is the Intereſt of the Factors, the Pewterers, and the Mer<g ref="char:EOLhyphen"/>chants, to buy cheap, and ſell dear; yet, where the Private Gain doth not accompany the Publick Good, there will be little Common-wealth to car<g ref="char:EOLhyphen"/>ry on a Vigorus War.</p>
+            <p>And (I think) the Common-wealth of the Tinners cannot be better found<g ref="char:EOLhyphen"/>ed at preſent, than on a Law, to keep the Price from falling under 3 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>IN Page 32 of the Propoſal, for 16000; read 160000 <hi>Chequens,</hi> and Page 16. of the Propoſal, or 61413 Hundred, read 614 Tun and 14 Hundred Weight.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
